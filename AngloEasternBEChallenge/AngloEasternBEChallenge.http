@@ -1,0 +1,6 @@
+@AngloEasternBEChallenge_HostAddress = http://localhost:5022
+
+GET {{AngloEasternBEChallenge_HostAddress}}/ship/
+Accept: application/json
+
+###
